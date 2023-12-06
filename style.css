@@ -37,8 +37,8 @@
 }
 
 .profile .profile-image {
-    width: 100%;
-    border-radius: 100%;
+    width: 50%;
+    border-radius: 50%;
 }
 
 .name {
@@ -74,7 +74,7 @@
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
-    font-size: 18px;
+    font-size: 10px;
     color: #eeeeee;
 }
 
@@ -92,13 +92,14 @@
 
 .right-title {
     color: #eeeeee;
+    font-size: 20px;
 }
 
 .gap {
     padding-bottom: 2rem;
 }
 .about-me-contents {
-    font-size: 18px;
+    font-size: 14px;
     color: #eeeeee;
 }
 
@@ -114,25 +115,25 @@
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
-    font-size: 25px;
+    font-size: 18px;
     font-weight: bold;
 }
 
 .exp-time-period,
 .education-time-period,
 .awards-time-period {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .exp-desc,
 .education-desc,
 .awards-desc {
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 5px;
 }
