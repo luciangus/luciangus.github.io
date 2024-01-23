@@ -1,2 +1,2 @@
-# luci.github.io
+# luciana.github.io
 Curriculo do Jornada Dev
